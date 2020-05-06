@@ -7,11 +7,14 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 ## Introducing Python
 
 * Basics
-	* Data Types
+	* Built-ins
+		* Functions
+		* Constants
+		* Types
+		* Data Structures
 	* Operators
 	* Flow control
 	* Code Formatting - PEP 8
-	* Data Structures
 	* Error handling
 * Object Oriented Programming
 	* Class & Object
