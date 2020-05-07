@@ -6,7 +6,7 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 
 ## Introducing Python
 
-* Basics
+* [Basics](./introduction/basics)
 	* Built-ins
 		* Functions
 		* Constants
@@ -16,7 +16,7 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 	* Flow control
 	* Code Formatting - PEP 8
 	* Error handling
-* Object Oriented Programming
+* [Object Oriented Programming](./introduction/oop)
 	* Class & Object
 	* Encapsulation
 	* Abstraction
