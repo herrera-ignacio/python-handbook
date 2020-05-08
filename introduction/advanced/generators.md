@@ -34,6 +34,17 @@ next(gen) # 1
 next(gen) # 2
 ```
 
+## `()` Generator Expression
+
+Returns an iterator over elements created by using list comprehension.
+
+```python
+i = (n for n in [0,1])
+i.next() #0
+i.next() #1
+i.next() #StopIteration
+```
+
 #### Iterator
 
 Any object in Python which has a `__next__` method defined. 
