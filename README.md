@@ -23,22 +23,31 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 	* Abstraction
 	* Inheritance
 	* Polymorphism
-	* @classmethod vs @staticmethod
-	* super()
-	* Dunder Methods
-	* Multple Inheritance
-	* MRO - Method Resolution Order
-* Functional Programming
+	* Python specifics
+		* @classmethod vs @staticmethod
+		* super()
+		* Dunder Methods
+		* Multple Inheritance
+		* MRO - Method Resolution Order
+* [Functional Programming](./introduction/functional)
+	* First class Functions
+	* Higher-order functions
+		* Partial application & Currying
 	* Pure Functions
-	* map()
-	* filter()
-	* zip()
-	* reduce()
-	* Lambda Expressions
-	* List Comprehension
-	* Set Comprehension
-	* Dictionray Comprehenson
-* Advanced Python
+		* Deterministic 
+		* No side effects
+	* Referential Transparency
+	* Immutable state
+	* Python specifics
+		* map()
+		* filter()
+		* zip()
+		* reduce()
+		* Lambda Expressions
+		* List Comprehension
+		* Set Comprehension
+		* Dictionray Comprehenson
+* [Advanced Python](./introduction/advanced)
 	* Decorators
 	* Generators
 * Modules and Packages
