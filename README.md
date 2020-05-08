@@ -16,6 +16,7 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 	* Flow control
 	* Code Formatting - PEP 8
 	* Error handling
+* [Looping Techniques](./introduction/looping)
 * [Object Oriented Programming](./introduction/oop)
 	* Class & Object
 	* Encapsulation
@@ -34,8 +35,9 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 	* zip()
 	* reduce()
 	* Lambda Expressions
-	* List comprehensions
-	* Set and Dictionray Comprehenson
+	* List Comprehension
+	* Set Comprehension
+	* Dictionray Comprehenson
 * Advanced Python
 	* Decorators
 	* Generators
