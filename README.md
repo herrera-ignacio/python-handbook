@@ -50,11 +50,11 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 * [Advanced Python](./introduction/advanced)
 	* Decorators
 	* Generators
-* Modules and Packages
-* Debugging
-* File I/O
-* Regular Expressions
-* Testing 
+* [Modules and Packages](./introduction/modules)
+* [Debugging](./introduction/debugging)
+* [File I/O](./introduction/io)
+* [Regular Expressions](./introduction/regexp)
+* [Testing](./introduction/testing)
 
 #### Scripting
 
