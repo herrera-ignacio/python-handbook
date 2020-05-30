@@ -56,6 +56,10 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 * [Regular Expressions](./introduction/regexp)
 * [Testing](./introduction/testing)
 
+## Courses
+
+* [Intermediate Python - Nina Zakharenko](./courses/intermediate-python)
+
 #### Scripting
 
 #### Scraping
