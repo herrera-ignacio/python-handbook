@@ -3,3 +3,4 @@
 ## TOC
 
 * [Introduction](./intro)
+* [Philosophy](./philosophy)
