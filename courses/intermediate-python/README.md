@@ -14,3 +14,7 @@
     * [Intro to Classes & Objects](./oop/intro.ipynb)
     * [Inheritance & Mixins](./oop/inheritance.ipynb)
 * [Exceptions](./exceptions)
+* [Libraries & Modules](./modules)
+    * Standard Library
+    * Modules and Imports
+    * PyPi
