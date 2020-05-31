@@ -18,3 +18,4 @@
     * Standard Library
     * Modules and Imports
     * PyPi
+* [Command Line Tools](./clis)
