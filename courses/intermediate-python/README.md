@@ -18,4 +18,5 @@
     * Standard Library
     * Modules and Imports
     * PyPi
-* [Command Line Tools](./clis)
+* [Command Line Tools](./clis/clis.ipynb)
+* [Testing](./testing)
