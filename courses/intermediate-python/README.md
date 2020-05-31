@@ -13,3 +13,4 @@
 * [Object-Oriented Programming](./oop)
     * [Intro to Classes & Objects](./oop/intro.ipynb)
     * [Inheritance & Mixins](./oop/inheritance.ipynb)
+* [Exceptions](./exceptions)
