@@ -10,3 +10,6 @@
     * [Other Comprehensions](./advanced-looping/other-comprehensions.ipynb)
     * [Slicing](./advanced-looping/slicing.ipynb)
     * [Zip](./advanced-looping/zip.ipynb)
+* [Object-Oriented Programming](./oop)
+    * [Intro to Classes & Objects](./oop/intro.ipynb)
+    * [Inheritance & Mixins](./oop/inheritance.ipynb)
