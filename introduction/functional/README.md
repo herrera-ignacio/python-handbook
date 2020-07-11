@@ -66,7 +66,7 @@ The iterator stops when the shortest input iterable is exhausted. With a single 
 
 The _left-to-right_ evaluation order of the iterables is guaranteed.
 
-`zip()` should only be used with unequal length inputs when you don't care about trailing, unmatched values from the longer iterables. If those values are important, use `itertoos.zip_longest()` instead.
+`zip()` should only be used with unequal length inputs when you don't care about trailing, unmatched values from the longer iterables. If those values are important, use `itertools.zip_longest()` instead.
 
 `zip()` in conjunction with the `*` operator can be used to unzip a list.
 
@@ -84,7 +84,7 @@ Small anonymous functions can be created with the `lambda` keyword and can be ue
 
 Semantically, they are just syntactic sugar for a normal function definition. Like nested function definitions, `lambda` functions can reference variables from the containing scope:
 
-#### (List Comprehension](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
+#### [List Comprehension](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
 
 Check [the example](./list-comprehension.py).
 
