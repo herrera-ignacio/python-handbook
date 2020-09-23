@@ -17,6 +17,7 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 	* Code Formatting - PEP 8
 	* Error handling
 * [Looping Techniques](./introduction/looping)
+* [String Manipulation](./introduction/strings)
 * [Object Oriented Programming](./introduction/oop)
 	* Class & Object
 	* Encapsulation
@@ -59,6 +60,23 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 ## Courses
 
 * [Intermediate Python - Nina Zakharenko](./courses/intermediate-python)
+* [Fluent Python]
+
+## Algorithms
+
+1. [Recursion](./algorithms/recursion)
+2. Array-Based Sequences
+3. Stacks, Queues and Deques
+4. Linked Lists
+5. Trees
+6. Priority Queues
+7. Maps, Hash Tables, and Skip Lists
+8. Search Tress
+9. Sorting and Selection
+10. Text Processing
+11. Graph Algorithms
+12. Memory Management and B-Trees
+
 
 #### Scripting
 

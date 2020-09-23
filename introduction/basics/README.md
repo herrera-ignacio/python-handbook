@@ -2,6 +2,8 @@
 
 ## Built-ins
 
+![immutables](./mutable.png)
+
 ### [Functions](https://docs.python.org/3/library/functions.html)
 
 Python interpreter has a number of functions and types built in that are always available.
