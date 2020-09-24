@@ -65,7 +65,7 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 ## Algorithms
 
 1. [Recursion](./algorithms/recursion)
-2. Array-Based Sequences
+2. [Array-Based Sequences](./algorithms/arrays)
 3. Stacks, Queues and Deques
 4. Linked Lists
 5. Trees
