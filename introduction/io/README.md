@@ -2,7 +2,7 @@
 
 ## Output formatting
 
-#### [Fancier Output Formatting](https://docs.python.org/3/tutorial/inputoutput.html#fancier-output-formatting)
+### [Fancier Output Formatting](https://docs.python.org/3/tutorial/inputoutput.html#fancier-output-formatting)
 
 ```python
 >>> s = 'Hello, world.'
@@ -27,7 +27,7 @@ The value of x is 32.5, and y is 40000...
 "(32.5, 40000, ('spam', 'eggs'))"
 ```
 
-#### [Formatted String Literrals](https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals)
+### [Formatted String Literrals](https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals)
 
 ```python
 >>> import math
@@ -45,7 +45,7 @@ Jack       ==>       4098
 Dcab       ==>       7678
 ```
 
-#### [String `format()` method](https://docs.python.org/3/tutorial/inputoutput.html#the-string-format-method)
+### [String `format()` method](https://docs.python.org/3/tutorial/inputoutput.html#the-string-format-method)
 
 ```python
 >>> print('We are the {} who say "{}!"'.format('knights', 'Ni'))
@@ -71,7 +71,7 @@ Jack: 4098; Sjoerd: 4127; Dcab: 8637678
 Jack: 4098; Sjoerd: 4127; Dcab: 8637678
 ```
 
-#### Old string formatting
+### Old string formatting
 
 ```python
 >>> import math
@@ -98,7 +98,7 @@ with open('workfile') as f:
 f.closed # true
 ```
 
-#### [Methods of File Objects](https://docs.python.org/3/tutorial/inputoutput.html#methods-of-file-objects)
+### [Methods of File Objects](https://docs.python.org/3/tutorial/inputoutput.html#methods-of-file-objects)
 
 * `read(size)`: Returns string/binary depending mode, `size` omitted implies reading the whole file. Otherwise, it reads at most characters/bytes are returns them. If the end file is reached, it returns an empty string.
 * `readline()`
@@ -107,7 +107,7 @@ f.closed # true
 * `tell()`: Returns integer giving file object's current poisition.
 * `seek(offset, whence)`: Change file object's position to position computed from adding `offset` to a reference point selected by the `whence argument`, which can be 0 for the beginning of file (_default_), 1 for current position, or 2 for end of file.
 
-## [Saving as JSON](https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json)
+### [Saving as JSON](https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json)
 
 ```python
 >>> import json

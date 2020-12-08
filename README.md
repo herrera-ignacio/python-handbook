@@ -1,4 +1,4 @@
-# Python Guidelines
+# Python Handbook
 
 This repository hopes to be a reference for everyone that's being introduced to Python and also, provide a set of curated practical and interesting resources for more experience developers. A place where you can learn something new whenever you like, or come back to refresh something you already knew.
 
@@ -19,11 +19,7 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 * [Looping Techniques](./introduction/looping)
 * [String Manipulation](./introduction/strings)
 * [Object Oriented Programming](./introduction/oop)
-	* Class & Object
-	* Encapsulation
-	* Abstraction
-	* Inheritance
-	* Polymorphism
+	* 4 Pillars: Encapsulation, Abstraction, Inheritance, Polymorphism
 	* Python specifics
 		* @classmethod vs @staticmethod
 		* super()
@@ -60,7 +56,6 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 ## Courses
 
 * [Intermediate Python - Nina Zakharenko](./courses/intermediate-python)
-* [Fluent Python]
 
 ## Algorithms
 
@@ -78,16 +73,21 @@ I'll start with a introduction to Python from scratch, and after that, you can f
 12. Memory Management and B-Trees
 
 
-#### Scripting
+## Projects for fun
 
-#### Scraping
+### Scripts
 
-#### Web Services
+* [White-space Trimmer](./projects/scripts/white-space-trimmer)
+* [Pseudonyms generator](./projects/scripts/pseudonyms-generator)
 
-#### Automation/Testing
+### Web Scraping
 
-#### Machine Learning
+### Web Services
 
-#### Data Science
+### Automation/Testing
+
+### Machine Learning
+
+### Data Science
 
 
