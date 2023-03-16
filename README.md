@@ -2,8 +2,8 @@
 
 - [Python Handbook](#python-handbook)
   - [Python 101](#python-101)
-  - [Courses](#courses)
   - [Algorithms \& Data Structures](#algorithms--data-structures)
+  - [Courses](#courses)
   - [Demo projects](#demo-projects)
     - [Scripts](#scripts)
     - [Web Scraping](#web-scraping)
@@ -61,10 +61,6 @@
 - [Regular Expressions](./introduction/regexp)
 - [Testing](./introduction/testing)
 
-## Courses
-
-- [Intermediate Python - Nina Zakharenko](./courses/intermediate-python)
-
 ## Algorithms & Data Structures
 
 - [Recursion](./algorithms/recursion)
@@ -79,6 +75,10 @@
 - Text Processing
 - Graph Algorithms
 - Memory Management and B-Trees
+
+## Courses
+
+- [Intermediate Python - Nina Zakharenko](./courses/intermediate-python)
 
 ## Demo projects
 
