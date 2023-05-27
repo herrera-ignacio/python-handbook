@@ -20,6 +20,7 @@
   - [Constants](https://docs.python.org/3/library/constants.html)
   - [Operators](https://docs.python.org/3/reference/lexical_analysis.html#operators)
   - [Flow control](https://docs.python.org/3/tutorial/controlflow.html)
+  - [Compound statements](https://docs.python.org/3/reference/compound_stmts.html)
   - [Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
 - [Data Model](https://docs.python.org/3/reference/datamodel.html#objects-values-and-types)
 - [PEP 8 - Coding conventions](https://peps.python.org/pep-0008/)
