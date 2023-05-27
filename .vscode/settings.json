@@ -1,3 +1,15 @@
 {
-    "python.pythonPath": "c:\\Users\\ignac\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+    "python.pythonPath": "c:\\Users\\ignac\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f",
+        "activityBar.background": "#12340F",
+        "titleBar.activeBackground": "#194915",
+        "titleBar.activeForeground": "#F4FCF3"
+    },
+    "cSpell.words": [
+        "classmethod",
+        "Dunder",
+        "staticmethod"
+    ]
 }

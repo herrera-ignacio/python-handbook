@@ -1,12 +1,25 @@
 # Basics of Python
 
+- [Built-ins](#built-ins)
+  - [Functions](#functions)
+  - [Constants](#constants)
+  - [Types](#types)
+    - [Numerics](#numerics)
+    - [Iterator](#iterator)
+    - [Generator](#generator)
+    - [Sequences](#sequences)
+    - [Text Sequence (`str`)](#text-sequence-str)
+    - [Binary sequences](#binary-sequences)
+    - [Set Types](#set-types)
+    - [Mapping Types](#mapping-types)
+    - [Exceptions](#exceptions)
+- [Code Formatting (PEP 8)](#code-formatting-pep-8)
+
 ## Built-ins
 
 ![immutables](./mutable.png)
 
 ### [Functions](https://docs.python.org/3/library/functions.html)
-
-Python interpreter has a number of functions and types built in that are always available.
 
 ![built in functions](./functions.png)
 
@@ -14,49 +27,47 @@ Python interpreter has a number of functions and types built in that are always 
 
 A small number of constants live in the built-in namespace.
 
-* False
-* True
-* None
-* NotImplemented
-* Ellipsis
-* __debug__
-* quit
-* exit
-* copyright
-* credits
-* license
+- `False`
+- `True`
+- `None`
+- `NotImplemented`
+- `Ellipsis`
+- `__debug__`
+- `quit`
+- `exit`
+- `copyright`
+- `credits`
+- `license`
 
 ### [Types](https://docs.python.org/3/library/stdtypes.html)
 
 Principal built-in types are:
 
-* Numerics
-	* `int`
-	* `float`
-	* `complex`
-* Iterator
-* Generator
-* Sequences
-	* `list` (mutable)
-	* `tuple` (immutable)
-	* `range` (immutable)
-* Text Sequence
-	* `str` (immutable)
-* Binary Sequences
-	* `bytes`
-	* `bytearray`
-	* `memoryview`
-* Sets
-	* `set` (mutable)
-	* `frozenset` (immutable)
-* Mappings
-	* `dict` (mutable)
-* Null (singleton `None`)
-* Booleans
-* Exceptions
-* Classes & Instances
-
-Some collectons classes are mutables.
+- Numerics
+  - `int`
+  - `float`
+  - `complex`
+- Iterator
+- Generator
+- Sequences
+  - `list`
+  - `tuple`
+  - `range`
+- Text Sequence
+  - `str` (immutable)
+- Binary Sequences
+  - `bytes`
+  - `bytearray`
+  - `memoryview`
+- Sets
+  - `set`
+  - `frozenset`
+- Mappings
+  - `dict` (mutable)
+- Null (singleton `None`)
+- Booleans
+- Exceptions
+- Classes & Instances
 
 #### Numerics
 
@@ -70,9 +81,9 @@ Some collectons classes are mutables.
 
 Python supports a concept of iteraiton over containers. This is implemented using two distinch methods, that are used to allow user-defined classes to supportiteraiton. Sequences always support the iterations methods.
 
-* `container.__iter__()`
-* `iterator.__iter__()`
-* `iterator.__next__()`
+- `container.__iter__()`
+- `iterator.__iter__()`
+- `iterator.__next__()`
 
 #### [Generator](https://docs.python.org/3/library/stdtypes.html#generator-types)
 
@@ -108,9 +119,9 @@ Core built-in types for manipulating binary data are `bytes` and `bytearray`. Th
 
 A `set` object is an unordered collection of distinct _hashable_ objects. Like other collections, set supports:
 
-* `in`
-* `len`
-* `for x in set`
+- `in`
+- `len`
+- `for x in set`
 
 #### [Mapping Types](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
 
@@ -192,16 +203,6 @@ BaseException
            +-- BytesWarning
            +-- ResourceWarning
 ```
-
-## Flow Control 
-
-Control the execution of statements.
-
-The `if`, `while` and `for` statements implement traditional control flow construts.
-
-`try` specifies exception handlers and/or cleanup code for a group of statements.
-
-While the `with` statement allows the execution of intialization and finalizaiton code around a block of code.
 
 ## Code Formatting ([PEP 8](https://www.python.org/dev/peps/pep-0008/))
 

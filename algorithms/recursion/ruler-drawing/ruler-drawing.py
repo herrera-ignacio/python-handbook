@@ -1,5 +1,5 @@
 """
-English ruler pattern is a simple example of a factal, that is,
+English ruler pattern is a simple example of a fractal, that is,
 a shape that has a self-recursive structure at various levels of
 magnification.
 
