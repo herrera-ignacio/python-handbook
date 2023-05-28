@@ -13,6 +13,6 @@
 
 ## References
 
-Besides documentation, here's some usefull insights:
+Besides documentation, here's some useful insights:
 
 * [Geeksforgeeks overview](https://www.geeksforgeeks.org/dunder-magic-methods-python/)
